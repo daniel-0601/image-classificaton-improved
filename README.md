@@ -92,6 +92,9 @@ Prediction: truck
 
 Confidence: 0.9153
 
+## Conclusion
+
+Although the improved model achieved significantly better performance than the baseline, misclassifications still occur in some cases. This indicates that the model has learned useful visual features, but its generalization ability is still limited when facing more challenging or ambiguous samples. Future work may focus on stronger architectures, better augmentation strategies, and more systematic hyperparameter tuning to further improve classification accuracy.
 
 
 

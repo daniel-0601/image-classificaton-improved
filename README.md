@@ -73,9 +73,9 @@ Prediction: deer
 Confidence: 0.5277
 
 ![frog](https://github.com/user-attachments/assets/ce2b9964-3a4a-4a1f-98a0-575716428a14)
-Prediction: deer
+Prediction: bird
 
-Confidence: 0.5277
+Confidence: 0.3217
 
 ![horse](https://github.com/user-attachments/assets/a69650af-b2a3-4422-bc8a-4a91323a451e)
 Prediction: horse

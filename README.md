@@ -40,3 +40,17 @@ achieving peak performance at epoch 19.
 ## 📌 Key Improvement
 
 +6.72% accuracy gain over baseline
+
+## ⭐Inference
+![test](https://github.com/user-attachments/assets/7677c5f6-f90e-4dcb-8592-18d4c53c62d8)
+Prediction: cat
+Confidence: 0.8645
+
+<img width="996" height="525" alt="test_dog" src="https://github.com/user-attachments/assets/51f97b4a-e6f2-4b2e-bb6a-77274e8094a6" />
+Prediction: dog
+Confidence: 0.8596
+
+![airplane](https://github.com/user-attachments/assets/41049a06-6c7f-4518-8653-5796c03c6976)
+Prediction: airplane
+Confidence: 0.9998
+
